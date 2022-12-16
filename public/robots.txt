@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pms.lk
+
+# Sitemaps
+Sitemap: https://pms.lk/sitemap.xml
